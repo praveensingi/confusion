@@ -37,3 +37,9 @@ body {
 .navbar-dark {
     background-color: #512dab;
 }
+
+.bookform {
+    padding-top:50px;
+    padding-bottom: 50px;
+    margin:0px auto; 
+}
