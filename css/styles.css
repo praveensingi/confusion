@@ -74,3 +74,9 @@ body {
 .car {
     padding-top:50px;
 }
+
+.carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
